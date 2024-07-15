@@ -19,5 +19,5 @@ The project is divided into two main directories:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/google-keep-clone.git
-   cd google-keep-clone
+   git clone https://github.com/vishishtkapoor/keep-clone.git
+   cd keep-clone
